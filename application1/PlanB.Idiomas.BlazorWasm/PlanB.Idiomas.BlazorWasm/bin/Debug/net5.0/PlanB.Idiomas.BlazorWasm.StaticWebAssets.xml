@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\madalena_dias\source\repos\PlanB.Idiomas.BlazorWasm\PlanB.Idiomas.BlazorWasm\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\madalena_dias\source\repos\PlanB.Idiomas.BlazorWasm\PlanB.Idiomas.BlazorWasm\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>
